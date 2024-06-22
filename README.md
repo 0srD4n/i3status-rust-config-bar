@@ -12,7 +12,12 @@
   * **Customizable Modules**
 # Installation
  1.  Clone the Repository:
-```bash 
-git clone https://github.com/XplDan/i3status-rust-config-bar.git
-cd i3status-rust-modern-config
- ```
+```bash
+  git clone https://github.com/username/i3status-rust-modern-config.git
+   cd i3status-rust-modern-config
+```SS
+ 2. Copy Configuration Files:
+```bash
+cp
+ 3. Install Dependencies : 
+ 4. Reload i3-wm :
