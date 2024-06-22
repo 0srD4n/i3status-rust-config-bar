@@ -52,5 +52,5 @@ i3-msg reload
 
 * default conf
 
-[preview](/preview.png)
+[preview](preview.png)
 
