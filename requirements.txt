@@ -1,0 +1,12 @@
+libpipewire
+libpulse
+lm_sensors
+alsa-utils
+bluez
+fakeroot
+kdeconnect
+powerline-fonts
+pulseaudio
+speedtest-cli
+ttf-font-awesome
+upower
